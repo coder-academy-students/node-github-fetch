@@ -1,0 +1,26 @@
+[
+  {
+    "id":"1",
+    "name":"Bob",
+    "age": "22",
+    "hobbies": ["rock climbing", "coding"]
+  },
+  {
+    "id":"2",
+    "name":"Susan",
+    "age": "45",
+    "hobbies": ["stamp collecting", "coding"]
+  },
+  {
+    "id":"3",
+    "name":"Pat",
+    "age": "15",
+    "hobbies": ["fishing", "coding", "sewing"]
+  },
+  {
+    "id":"3",
+    "name":"Alison",
+    "age": "34",
+    "hobbies": ["coding"]
+  }
+]
